@@ -1,0 +1,26 @@
+# TryneX Backend Deployment Guide (Render)
+
+## Prerequisites
+- Node.js (v18 or higher)
+- Git
+- GitHub account
+- Render account
+- Supabase database setup
+
+## Deployment Steps
+
+### 1. Download and Setup
+1. Download the generated TryneX backend files
+2. Extract the `server` folder to a local directory (e.g., `trynex-backend`)
+3. Copy the following files to the root of your backend folder:
+   - `package.json`
+   - `drizzle.config.ts`
+   - `tsconfig.json`
+   - `shared/` folder (database schema)
+
+### 2. Initialize Git Repository
+```bash
+cd trynex-backend
+git init
+git add .
+git commit -m "Initial TryneX backend"
