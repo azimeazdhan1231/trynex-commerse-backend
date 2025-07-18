@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Mugs",
+    "nameBn": "মগ",
+    "slug": "mugs",
+    "description": "Premium ceramic mugs for coffee, tea, and beverages",
+    "emoji": "☕"
+  },
+  {
+    "id": 2,
+    "name": "T-Shirts",
+    "nameBn": "টি-শার্ট",
+    "slug": "t-shirts",
+    "description": "Comfortable and stylish t-shirts for all occasions",
+    "emoji": "👕"
+  },
+  {
+    "id": 3,
+    "name": "Keychains",
+    "nameBn": "কীচেইন",
+    "slug": "keychains",
+    "description": "Stylish keychains and accessories",
+    "emoji": "🔑"
+  },
+  {
+    "id": 4,
+    "name": "Water Bottles",
+    "nameBn": "পানির বোতল",
+    "slug": "water-bottles",
+    "description": "Eco-friendly and insulated water bottles",
+    "emoji": "🍼"
+  },
+  {
+    "id": 5,
+    "name": "Gift for Him",
+    "nameBn": "তার জন্য উপহার",
+    "slug": "gift-for-him",
+    "description": "Special gifts for men",
+    "emoji": "🎁"
+  },
+  {
+    "id": 6,
+    "name": "Gift for Her",
+    "nameBn": "তার জন্য উপহার",
+    "slug": "gift-for-her",
+    "description": "Exclusive gifts for women",
+    "emoji": "💝"
+  },
+  {
+    "id": 7,
+    "name": "Gift for Parents",
+    "nameBn": "বাবা-মার জন্য উপহার",
+    "slug": "gift-for-parents",
+    "description": "Loving gifts for parents",
+    "emoji": "❤️"
+  },
+  {
+    "id": 8,
+    "name": "Gifts for Babies",
+    "nameBn": "শিশুদের জন্য উপহার",
+    "slug": "gifts-for-babies",
+    "description": "Safe and adorable gifts for babies",
+    "emoji": "🍼"
+  },
+  {
+    "id": 9,
+    "name": "For Couple",
+    "nameBn": "দম্পতির জন্য",
+    "slug": "for-couple",
+    "description": "Romantic gifts for couples",
+    "emoji": "💑"
+  },
+  {
+    "id": 10,
+    "name": "Premium Luxury Gift Hampers",
+    "nameBn": "প্রিমিয়াম লাক্সারি গিফট হ্যাম্পার",
+    "slug": "premium-luxury-gift-hampers",
+    "description": "Luxury gift hampers with premium items",
+    "emoji": "🎁"
+  },
+  {
+    "id": 11,
+    "name": "Chocolates & Flowers",
+    "nameBn": "চকলেট এবং ফুল",
+    "slug": "chocolates-flowers",
+    "description": "Romantic combination of chocolates and flowers",
+    "emoji": "🍫🌹"
+  }
+]
